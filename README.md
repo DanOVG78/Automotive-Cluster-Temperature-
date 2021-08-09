@@ -1,0 +1,2 @@
+# Automotive-Cluster-Temperature-
+Using the resources posted on my repository here in GitHub like the ADC, PWM and LCD driver I created another project where the main resource is an UART, so in this project my main focus was the creation of an UART for the comunication of two microcontrollers. One microcontroller recieve the data of the temperature and the other microcontroller move the servomotor and show the temperature as the same time as the servomotor is moving 
